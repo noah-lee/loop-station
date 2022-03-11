@@ -38,8 +38,6 @@ playBtns.forEach(e => {
     })
 });
 
-console.log('hi');
-
 // Load Samples before play is allowed
 async function setupSample() {
         // Paths for all samples
